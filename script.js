@@ -38,12 +38,7 @@
 
 
 
-
-
-
-	// #Inspiration
-	// ----
-
+	// #Exercise
 	var input=document.getElementById("userinput");
 	var button=document.getElementById("enter");
 	var ul=document.querySelector("ul");
